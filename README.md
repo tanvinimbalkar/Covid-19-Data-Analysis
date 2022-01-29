@@ -22,4 +22,6 @@ This chart highlights the Top 10 deaths due to covid.
 
 This chart contains confirmed vs deaths found due to covid.
 
+![image](https://user-images.githubusercontent.com/69764213/151677017-e249e3f6-817e-4156-b785-2afd47ffbcfa.png)
 
+Line graph****
